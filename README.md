@@ -89,16 +89,6 @@ I am a passionate **Full-Stack Developer** and **Software Engineer** dedicated t
 
 ---
 
-### 📬 Let's Connect
-
-If you want to collaborate on a project, discuss system design patterns, or just talk tech, feel free to reach out!
-
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Website:** [yourportfolio.com](https://yourportfolio.com)
-- 👔 **LinkedIn:** [/in/yourusername](https://linkedin.com/in/yourusername)
-
----
-
 <p align="center">
   <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
 </p>
