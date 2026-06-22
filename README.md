@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🛠️ Hello World, I'm [Utsav]! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puY21vZXA4cGN6Y3I4bXU1cXo4Ym56Y2I0bTVwZzZ6ZXg4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlNhgf2fGr6fe9ZfS/giphy.gif" width="30px">
+# 🛠️ Hello World, I'm Utsav <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puY21vZXA4cGN6Y3I4bXU1cXo4Ym56Y2I0bTVwZzZ6ZXg4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlNhgf2fGr6fe9ZfS/giphy.gif" width="30px">
 
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
